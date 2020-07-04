@@ -28,6 +28,8 @@ Also our app has a feature of **assignment submission**. The teachers can upload
 2.	Our second part of the solution consists of an **IoT device, an Image processing algorithm, artificial intelligence and an android app. combining all makes a ROBOCARE package for helping Covid19 doctors and patients**
 To help treat Covid19 patients we invented a robot that can be used as an essentials deliverable device or like a wheelchair. The robot work on the gesture made by hands. We don’t have to touch anything to operate the robot just make gestures and transfer medicines and food to patients through this robot. 
 Due to Covid19 treatment people are becoming weak so this robot can act as a wheelchair also for easy transportation through mere gestures.
+check the architecture of the app here :
+![architecture](https://github.com/lopeselio/NASSCOM-CrackTheCovid19Crisis-Hackathon-TeamBrute_Force/blob/master/fg.png)
 
 #### The Youtube link to this IoT technology can be found here
 [Click me to watch the video](https://youtu.be/B6lCCtHmh4s)
